@@ -1,34 +1,55 @@
-# LeBeauté ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# LeBéauté ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-:sparkling_heart:	LeBeauté is dedicated to the beauty services.
+💖 **LeBéauté** brings the world of beauty services straight to your fingertips, blending elegance with the power of modern technology!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## FAQ
-- **when will this go live?**
-  - business takes time to launch, i suspect early 2023.
-- **how do i contribute?**
-  - please email me.
- 
-## Support
-Reach out to me at one of the following places!
-Email <a href="pablo.rosas.0170@gmail.com" target="_blank">pablo.rosas.0170@gmail.com</a>.
-Website <a href="pr17.io" target="_blank">pr17.io</a>.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Main Design Image -->
+  <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/LeBéauté Material Design Theme.png" 
+       style="flex: 1 1 100%;" 
+       width="100%" 
+       alt="LeBéauté-Material-Design-Theme">
+  <!-- Smaller Images Side by Side -->
+  <div style="display: flex; gap: 10px; flex: 1 1 100%; justify-content: space-between;">
+    <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(1).png" 
+         width="375" height="275" 
+         alt="LeBéauté-md-theme-palette-(1)">
+    <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(2).png" 
+         width="375" height="275" 
+         alt="LeBéauté-md-theme-palette-(2)">
+    <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(3).png" 
+         width="375" height="275" 
+         alt="LeBéauté-md-theme-palette-(3)">
+  </div>
+</div>
 
-## Donations
-I've always appreciated a :beer: with :pizza: , please consider donating :heart: , thank you :exclamation:
 
-## Partnersips
-I'm willing to partner with like-minded :bulb: people :ghost:, if you think you've got what it takes please reach out to me.
+## 🌟 Features
+- **Effortless Beauty Services**: Integration of beauty solutions designed for ultimate convenience and user satisfaction.
+- **Sleek and Intuitive Design**: Powered by **Material Design**, providing a smooth, visually appealing navigation experience.
+- **Fully Responsive Layout**: Adapts beautifully to any device, with vibrant, customizable themes that make every interaction feel personalized.
+- **Always Evolving**: New features are being brewed and deployed, just like your favorite espresso ☕️—always improving, always fresh!
 
-## Liability 
-Please use this project for learning, demonstration purposes, and evalutaion of my skillset.
 
-## License
+## 🚀 FAQ
+- **When will this go live?**
+  - Pre-release is on the horizon for April 2025! But honestly, the release date depends on the espresso flow. ☕️
+
+## 💬 Support
+Got questions or just want to chat? Reach me here:  
+[**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
+
+## 💖 Donations
+A :beer: and :pizza: always make my day better! If you'd like to support the project, donations are appreciated with all my ❤️!
+
+## 🤝 Partnerships
+If you're passionate about beauty tech, let's join forces! If you think we’d make a great team, don’t hesitate to reach out. :bulb: :ghost:
+
+## ⚠️ Liability
+This project is for educational, demonstration, and showcasing purposes—use it responsibly, and always enjoy the ride!
+
+## 📄 License
 ```xml
-The [NAME_OF_LICENSE] License
-
 Copyright 2025 © PabloRosas17 @ https://github.com/PabloRosas17
-
-[DESCRIPTION_OF_LICENSE]
 ```

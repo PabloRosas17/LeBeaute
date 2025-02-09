@@ -20,19 +20,21 @@
 
 🌟 **Responsive** – Adapts flawlessly to any device, with vibrant, customizable themes that make every interaction feel personalized.
 
-🌟 **Evolving** – Features are often brewed and deployed, just like your favorite espresso! <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png" width="35" height="20"> — always improving, always fresh!
+🌟 **Evolving** – Features are often brewed and deployed, just like your favorite espresso! <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png" width="35" height="20"> 
+
+*— always improving, always fresh!*
 
 ### FAQ  
-❓ **⏳ When is the launch?** 📅 aiming for **April 2025** *depending on the espresso flow* ☕️
+❓ **When is the launch?** 📅 aiming for **April 2025** ⏳ *depending on the espresso flow* ☕️
 
 ### Connect  
 💌 Send me a message 📧, [**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
 
 ### Support & Donations  
-💖 A :beer: and :pizza: always brighten my day! If you'd like to support the project, donations are deeply appreciated with all my ❤️!
+💖 To always brighten my day :beer: and :pizza: ! If you'd like to support the project, donations are deeply appreciated with all my ❤️!
 
 ### Partnerships  
-🤝 Are you into **beauty + tech**? If you think we'd make a great team, don't hesitate to reach out. :bulb: :ghost:
+🤝 Are you into **beauty + tech**? If you think we'd make a great team, reach out! :bulb: :ghost:
 
 ### Liability  
 ⚠️ This project is for **educational & demonstration purposes**. Use responsibly!

@@ -4,18 +4,16 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
----
-
-## 🎨 Palette  
+### 🎨 Palette  
 LeBéauté’s visual identity is a **blend of modernity and warmth**, carefully crafted for beauty, functionality, and harmony.
 
 | ![Palette 1](https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(1).png) | ![Palette 2](https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(2).png) | ![Palette 3](https://github.com/PabloRosas17/LeBeaute/blob/main/media/design/md-theme-palette-(3).png) |
 |---|---|---|
 
-## 🚀 Why LeBéauté?  
-Because **self-care should be effortless**.
+### 🚀 Why LeBéauté?  
+Because **self-care should be** ***effortless***.
 
-## 🌟 Features  
+### 🌟 Features  
 **Effortless** – Booking made simple, fitting seamlessly into your lifestyle.
 
 **Intuitive** – A beautiful, intuitive experience powered by [Material Design](https://m3.material.io/), offering smooth, visually appealing navigation.
@@ -24,26 +22,27 @@ Because **self-care should be effortless**.
 
 **Evolving** – Features are often brewed and deployed, just like your favorite espresso! <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png" width="35" height="20"> — always improving, always fresh!
 
-## ❓ FAQ  
-**⏳ When is the launch?**  
-📅 We’re aiming for **April 2025**, depending on the espresso flow ☕️
+### ❓ FAQ  
+**⏳ When is the launch?** 📅 aiming for **April 2025**
 
-## 💌 Connect  
-📧 [**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
+*depending on the espresso flow* ☕️
 
-## 💖 Support & Donations  
+### 💌 Connect  
+📧 Send me a message, [**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
+
+### 💖 Support & Donations  
 A :beer: and :pizza: always brighten my day! If you'd like to support the project, donations are deeply appreciated with all my ❤️!
 
-## 🤝 Partnerships  
+### 🤝 Partnerships  
 Are you into **beauty + tech**? If you think we'd make a great team, don't hesitate to reach out. :bulb: :ghost:
 
-## ⚠️ Liability  
+### ⚠️ Liability  
 This project is for **educational & demonstration purposes**. Use responsibly!
 
-## 🖼️ Attribution  
+### 🖼️ Attribution  
 <sub>Icons & emojis by <i>[OpenEmoji](https://github.com/hfg-gmuend/openmoji)</i></sub>
 
-## 📄 License  
+### 📄 License  
 ```xml
 Copyright 2025 © PabloRosas17  
 https://github.com/PabloRosas17

@@ -22,7 +22,7 @@ Because **self-care should be effortless**.
 
 **Responsive** – Adapts flawlessly to any device, with vibrant, customizable themes that make every interaction feel personalized.
 
-**Evolving** – Features are often brewed and deployed, just like your favorite espresso! ![Coffee Shot](https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png | width=20 height=20) — always improving, always fresh!
+**Evolving** – Features are often brewed and deployed, just like your favorite espresso! <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png" width="35" height="20"> — always improving, always fresh!
 
 ## ❓ FAQ  
 **⏳ When is the launch?**  

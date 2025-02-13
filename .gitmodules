@@ -1,0 +1,3 @@
+[submodule "LeBeauteApp"]
+	path = LeBeauteApp
+	url = https://github.com/your-username/LeBeauteApp.git

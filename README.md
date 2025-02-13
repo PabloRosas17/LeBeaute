@@ -12,15 +12,15 @@
 
 ### Why LeBéauté?  
 🚀 Because **self-care should be** ***effortless***.
+=======
+## 🌟 Features
+- **Effortless Beauty Services**: Integration of beauty solutions designed for ultimate convenience and user satisfaction.
+- **Sleek and Intuitive Design**: Powered by **[Material Design](https://m3.material.io/)**, a smooth, visually appealing experience.
+- **Fully Responsive Layout**: Adapts beautifully, with vibrant, customizable themes that make every interaction feel personalized.
+- **Always Evolving**: New features are being brewed and deployed, just like your favorite espresso ☕️—always improving, always fresh!
 
-### Features  
-🌟 **Effortless** – Booking made simple, fitting seamlessly into your lifestyle.
-
-🌟 **Intuitive** – A beautiful, intuitive experience powered by [Material Design](https://m3.material.io/), offering smooth, visually appealing navigation.
-
-🌟 **Responsive** – Adapts flawlessly to any device, with vibrant, customizable themes that make every interaction feel personalized.
-
-🌟 **Evolving** – Features are often brewed and deployed, just like your favorite espresso! <img src="https://github.com/PabloRosas17/LeBeaute/blob/main/media/emojis/E0C5_coffee_shot.png" width="35" height="20"> 
+## 💖 Donations
+A :beer: and :pizza: is divine! If you'd like to support the project, donations are appreciated ❤️!
 
 *— always improving, always fresh!*
 
@@ -46,3 +46,4 @@
 ```xml
 📄 Copyright 2025 © PabloRosas17  
 https://github.com/PabloRosas17
+```

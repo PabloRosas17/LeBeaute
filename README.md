@@ -27,8 +27,8 @@
 
 ## 🌟 Features
 - **Effortless Beauty Services**: Integration of beauty solutions designed for ultimate convenience and user satisfaction.
-- **Sleek and Intuitive Design**: Powered by **Material Design**, providing a smooth, visually appealing navigation experience.
-- **Fully Responsive Layout**: Adapts beautifully to any device, with vibrant, customizable themes that make every interaction feel personalized.
+- **Sleek and Intuitive Design**: Powered by **Material Design**, a smooth, visually appealing experience.
+- **Fully Responsive Layout**: Adapts beautifully, with vibrant, customizable themes that make every interaction feel personalized.
 - **Always Evolving**: New features are being brewed and deployed, just like your favorite espresso ☕️—always improving, always fresh!
 
 
@@ -41,7 +41,7 @@ Got questions or just want to chat? Reach me here:
 [**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
 
 ## 💖 Donations
-A :beer: and :pizza: always make my day better! If you'd like to support the project, donations are appreciated with all my ❤️!
+A :beer: and :pizza: is divine! If you'd like to support the project, donations are appreciated ❤️!
 
 ## 🤝 Partnerships
 If you're passionate about beauty tech, let's join forces! If you think we’d make a great team, don’t hesitate to reach out. :bulb: :ghost:

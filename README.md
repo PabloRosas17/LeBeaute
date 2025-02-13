@@ -14,13 +14,10 @@
 🚀 Because **self-care should be** ***effortless***.
 =======
 ## 🌟 Features
-- **Effortless Beauty Services**: Integration of beauty solutions designed for ultimate convenience and user satisfaction.
+- **Effortless Beauty Services**: Integration of beauty designed for ultimate convenience and satisfaction.
 - **Sleek and Intuitive Design**: Powered by **[Material Design](https://m3.material.io/)**, a smooth, visually appealing experience.
-- **Fully Responsive Layout**: Adapts beautifully, with vibrant, customizable themes that make every interaction feel personalized.
+- **Fully Responsive Layout**: Adapts beautifully, with vibrant themes that make every interaction feel personalized.
 - **Always Evolving**: New features are being brewed and deployed, just like your favorite espresso ☕️—always improving, always fresh!
-
-## 💖 Donations
-A :beer: and :pizza: is divine! If you'd like to support the project, donations are appreciated ❤️!
 
 *— always improving, always fresh!*
 
@@ -30,8 +27,8 @@ A :beer: and :pizza: is divine! If you'd like to support the project, donations 
 ### Connect  
 💌 Send me a message 📧, [**pablo.rosas.0170@gmail.com**](mailto:pablo.rosas.0170@gmail.com)
 
-### Support & Donations  
-💖 To always brighten my day :beer: and :pizza: ! If you'd like to support the project, donations are deeply appreciated with all my ❤️!
+## 💖 Donations
+A :beer: and :pizza: is divine! If you'd like to support the project, donations are appreciated ❤️!
 
 ### Partnerships  
 🤝 Are you into **beauty + tech**? If you think we'd make a great team, reach out! :bulb: :ghost:

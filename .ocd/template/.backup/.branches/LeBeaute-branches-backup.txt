@@ -1,0 +1,23 @@
+  HEAD -> origin/main
+  bugfix/android-api-error
+  bugfix/android-crash-fix
+  bugfix/android-ui-glitch
+  ci/android-circle
+  deploy/android-playstore
+  develop/emulation
+  experiment/caching-initialization
+  experimental/android-proguard-optimizations
+  feature/android-api-integration
+  feature/android-navigation
+  feature/android-notifications
+  feature/android-performance
+  feature/android-permissions
+  feature/android-storage
+  feature/android-ui-layout
+  hotfix/android-v1.0.1
+  hotfix/emulation
+  main
+  refactor/code-control
+  refactor/documentation-control
+  release/android-v1.0
+  release/deploy-deploys
